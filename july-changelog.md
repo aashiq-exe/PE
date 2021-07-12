@@ -1,7 +1,7 @@
 #Pixel experience #pe #unofficial #RMX1851
 
 1. Added Moto Dolby
-2. Misc Changes
-3. Based on OSS vendor
-4. Using July fp
+2. fixed 2% drop
+3. built illusionX inline
 4. CTS fixed without root
+5. Misc Changes
