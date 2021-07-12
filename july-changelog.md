@@ -1,5 +1,6 @@
 #Pixel experience #pe #unofficial #RMX1851
 
+Device changelogs' 
 1. Added Moto Dolby
 2. fixed 2% drop
 3. built illusionX inline
