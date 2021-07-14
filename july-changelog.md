@@ -9,5 +9,4 @@ Device changelogs'
 1. Added Moto Dolby
 2. fixed 2% drop
 3. built illusionX inline
-4. CTS fixed without root
-5. Misc Changes
+4. Misc Changes
