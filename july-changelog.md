@@ -1,8 +1,10 @@
 #Pixel experience #pe #unofficial #RMX1851
 
 Source Changelogs'
-1. July security patch Merged
-2. Some improvement and fixes
+1. July security patch
+2. Updated translations
+3. Improved FaceUnlock
+3. Minor bug fixes
 
 
 Device changelogs' 
